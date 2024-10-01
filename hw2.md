@@ -1,4 +1,4 @@
-# PERT/CAM
+# PERT
 ![PERT](PERT.png "PERT")
 
 # 甘特圖
